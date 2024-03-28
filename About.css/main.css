@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(237, 212, 212);
+}
+.first{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.first h2{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    color: rgb(139, 123, 218);
+    font-family: cursive;
+}
+.flex-container {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.left_side {
+    flex: 50%;
+}
+
+.right_side {
+    flex: 50%;
+}
+.teacher {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tr1 img {
+   width: 300px;
+   height: 350px;
+}
+.tr2 img {
+    width: 300px;
+   height: 350px;
+}
+.tr3 img {
+    width: 300px;
+    height: 350px;
+}
+.tr1 {
+    color: rgb(255, 177, 75);
+    font-family: cursive;
+    float: left;
+}
+.tr2 {
+    color: rgb(255, 90, 90);
+    font-family: cursive;
+    float: left;
+    margin-left: 150px;
+    
+}
+.tr3 {
+    color: rgb(103, 149, 255);
+    font-family: cursive;
+    float: left;
+    margin-left: 152px;
+}
+.teacher h2 {
+    font-family: cursive;
+    color: brown;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.footer {
+    height: 100px;
+    text-align: center;
+    font-family: cursive;
+    background-color: antiquewhite;
+}
+.footer h2 {
+    padding-top: 30px;
+    margin-top: 600px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.pic {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 50px;
+
+}
